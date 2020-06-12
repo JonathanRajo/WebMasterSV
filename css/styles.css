@@ -1,0 +1,1306 @@
+.navbar {
+
+    padding: 0px 20px 0px 20px !important;
+    background: rgba(255, 255, 255, 0.46) !important
+}
+
+.top-nav-collapse {
+
+    background-image: url(../img/2-min.jpg) !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+
+
+}
+
+.navbar-toggler-icon {
+    border: 2px solid orange;
+    border-radius: 5px
+}
+
+.enlaces li {
+    padding: 0px 1px !important;
+
+}
+
+.enlaces li a {
+    padding: 22px 0px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: #202020 !important
+}
+
+.enlaces li a i {
+    color: #007761 !important;
+
+}
+.voxina{
+    font-size: 2.4rem;
+      color: #012D4E !important;
+}
+.circ {
+
+    font-size: 0.6rem
+}
+
+.nav-item:hover {
+    border-top: 2px solid #770073;
+    border-bottom: 2px solid #770073;
+}
+
+.deskode {
+    padding-top: 5px;
+
+}
+
+.logo {
+    font-size: 2.0rem;
+    font-family: 'Archivo Black', sans-serif;
+
+
+
+}
+
+.desk {
+    color: #202020 !important;
+
+
+}
+
+.code {
+    color: #012D4E !important;
+
+}
+.code1 {
+    color: #0080ff !important;
+
+}
+
+.eslogan {
+    margin-top: -12px !important;
+    letter-spacing: 5px;
+    font-size: 0.7rem !important;
+    font-weight: bold;
+
+}
+
+
+.logotipo{
+    width: 10%
+}
+.carousel-caption {
+    text-align: left !important;
+    left: 3% !important;
+    bottom: 40% !important
+}
+
+
+.oscurecer h1 {
+    font-family: 'Archivo Black', sans-serif;
+
+}
+
+.oscurecer p {
+    letter-spacing: 2px;
+    color: #dddddd;
+    font-weight: bold;
+}
+
+.primerl {
+    color: #0080ff
+}
+
+.vender {
+    border: 1px solid white !important;
+    margin-left: -1px !important;
+    color: white !important;
+    background: rgba(5, 5, 5, 0.33) !important;
+    font-weight: bold !important
+}
+
+/*INFORMACION DE MARKETING */
+
+.marketinginfo {
+    padding: 50px 20px;
+    background: #04657c;
+    border-top: 2px solid white;
+
+
+}
+
+.marketinginfo1 {
+    padding: 50px 20px;
+    background: #008893;
+
+
+}
+
+.progress {
+    height: 3px !important;
+    width: 49%;
+
+
+}
+
+.infomar h2 {
+    color: white;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 2.5rem
+}
+
+.infomar p {
+    font-size: 18px;
+    color: #eaeaea;
+    line-height: 28px;
+    font-weight: 500;
+
+}
+
+.infomar button {
+    font-size: 15px;
+    color: #eaeaea;
+    line-height: 28px;
+    font-weight: 500;
+
+}
+
+.leer {
+    margin-left: 1px !important
+}
+
+.modal-title {
+    color: orange;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 2.5rem;
+
+}
+
+/*VIDEO */
+.video {
+    background-image: url(../img/5-min.png) !important;
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+    padding: 50px 0px
+}
+
+.redondo {
+    color: #000000;
+    font-size: 4.5rem !important;
+    border-radius: 50% !important;
+    border: 2px solid white
+}
+
+.redondo:hover {
+    color: #ed7600
+}
+
+/*NUESTROS SERVIVICIOS*/
+.servicios {
+    padding: 50px 20px;
+    background-color: #ebefed;
+    -webkit-box-shadow: inset 10px 10px 15px -2px rgba(122, 122, 122, 0.4);
+    -moz-box-shadow: inset 10px 10px 15px -2px rgba(122, 122, 122, 0.4);
+    box-shadow: inset 10px 10px 15px -2px rgba(122, 122, 122, 0.4);
+}
+
+.orang {
+    color: darkorange !important
+}
+
+.tema {
+    color: #18daf4;
+    font-weight: bold !important;
+    font-size: 1.9rem
+}
+
+.subtema {
+    color: #00d5f0
+}
+
+.altura img {
+    height: 350px
+}
+
+/*CURSOS */
+
+
+.fondo {
+    background: orange;
+
+}
+
+.anchocursos {
+    padding: 40px 0px 0px 0px
+}
+
+.anchocursos1 {
+    padding: 0px 0px 20px 0px
+}
+
+.marketing {
+    background-image: url(../img/26-min.png) !important;
+    background-repeat: no-repeat;
+    background-size: 100vw 135vh;
+    background-attachment: fixed;
+    padding: 90px 50px
+}
+
+.frontend {
+    background-image: url(../img/30-min.png) !important;
+    background-repeat: no-repeat;
+    background-size: 100vw 135vh;
+    background-attachment: fixed;
+    padding: 90px 50px
+}
+
+.alturacaruu {
+    height: 400px !important;
+    border: 4px solid white
+}
+
+.botoninfo {
+    border: none;
+    padding: 0px 40px;
+    border-radius: 50px
+}
+
+/*PORTAFOLIO*/
+.portafolio {
+    padding: 50px 20px;
+    background-color: #ebefed;
+
+}
+
+.md-pills .nav-link.active {
+    color: #fff;
+    background-color: #616161;
+}
+
+button.close {
+    position: absolute;
+    right: 0;
+    z-index: 2;
+    padding-right: 1rem;
+    padding-top: .6rem;
+}
+
+.clientesimg {
+    height: 265px
+}
+
+.altezza {
+    color: white !important;
+    font-weight: bold !important;
+
+}
+
+.oriflame {
+    color: #07670e !important;
+    font-weight: bold !important;
+
+}
+
+.angel {
+    color: #d30000 !important;
+    font-weight: bold !important;
+}
+
+.sol {
+    color: #ff6200 !important;
+    font-weight: bold !important;
+}
+
+.clientesenlaces a {
+    color: #7b00a0
+}
+
+/*NOSOTROS*/
+.nosotros {
+    background-image: url(../img/37-min.png);
+    background-repeat: no-repeat;
+    background-size: 100vw 120vh;
+    height: 120vh;
+
+}
+
+.nosop {
+    font-weight: bold;
+}
+
+.colornsotros {
+    color: #6B1E8F;
+    font-weight: bold !important;
+}
+
+.quienessomos {
+    padding-top: 75px
+}
+
+.redesicon:hover {
+    color: #e800e8 !important;
+}
+
+.footcolor {
+    background: #6B1E8F;
+    border: none !important
+}
+
+/*CONTACTANOS */
+.contacto {
+    background-image: url(../img/49-min.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    height: 100vh
+}
+
+.contact {
+    color: #e39300 !important;
+    font-size: 3.5rem !important
+}
+
+.iconoscontac {
+    color: orange;
+}
+
+.labecontac {
+    color: #e87400 !important;
+    font-weight: bold
+}
+
+.form-control {
+    color: white !important
+}
+
+/*INGRESOS */
+.banneringresos {
+    background-image: url(../img/60-min.png);
+    background-repeat: no-repeat;
+    background-size: 100vw 110vh;
+    height: 110vh;
+}
+
+.infomar h1 {
+    color: white;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 2.5rem
+}
+
+.imgmap {
+    width: 720px;
+    height: 400px
+}
+
+/*INFO*/
+
+.infor {
+    padding: 50px 20px;
+    background: #EAEEEC;
+    -webkit-box-shadow: inset 6px 7px 25px 0px rgba(140, 140, 140, 0.7);
+    -moz-box-shadow: inset 6px 7px 25px 0px rgba(140, 140, 140, 0.7);
+    box-shadow: inset 6px 7px 25px 0px rgba(140, 140, 140, 0.7);
+}
+.comenzar{
+    border-radius: 50px !important;
+    width: 100% !important;
+    font-size: 1.2rem !important;
+    font-weight: bold !important
+}
+.whatsapp{
+    font-size: 1.2rem !important
+}
+.infoparrafo{
+    font-size: 1.5rem;
+    color: #606060;
+    font-weight: 400
+}
+.quienes{
+     padding: 60px 20px;
+  background: rgb(71,0,0);
+background: linear-gradient(90deg, rgba(71,0,0,1) 0%, rgba(189,44,0,1) 67%, rgba(226,60,0,1) 100%);
+}
+.checkinfo{
+    font-size: 1.5rem;
+    color: #e5e5e5;
+    font-weight: 400
+}
+.dinero{
+    padding: 50px 20px;
+    background: #EAEEEC;
+    -webkit-box-shadow: inset 6px 7px 25px 0px rgba(140, 140, 140, 0.7);
+    -moz-box-shadow: inset 6px 7px 25px 0px rgba(140, 140, 140, 0.7);
+    box-shadow: inset 6px 7px 25px 0px rgba(140, 140, 140, 0.7);
+}
+.colorganar{
+    color:#ffb100 !important
+}
+.carborder{
+    border: 2px dashed #ffc400
+}
+.franquiciainfo{
+    color: #15b700 !important;
+    font-size: 1.5rem;
+    font-weight: 600
+    
+}
+.nota{
+    color: red;
+    font-weight: bold !important;
+    font-size: 1.5rem
+}
+.ingdirect li{
+    color: #626262;
+    font-size: 1.3rem
+}
+.adquirir{
+    padding: 50px 0px;
+    background-image: url(../img/63-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.suscribete{
+    font-size: 0.9rem !important
+}
+.standar{
+    font-size: 1.5rem;
+    font-weight: bold
+}
+.inersion{
+    font-size: 1.5rem;
+    font-weight: 600 !important
+}
+.precio{
+    font-size: 2.5rem
+}
+.detalleventas p{
+    font-size: 1.2rem !important
+}
+.lineacolor{
+    background: aqua !important
+}
+.lineacolor1{
+    background: #ff9300 !important
+}
+.lineacolor2{
+    background: #ba04c1 !important
+}
+/*PRODUCTOS*/
+.producto1{
+    padding: 50px 10px 0px 0px;
+     background: #EBEFED
+   
+}
+.producto3{
+    padding: 50px 10px 0px 0px;
+     background: #EBEFED
+}
+.producto2{
+    padding: 50px 0px 0px 40px;
+    -webkit-box-shadow: inset 7px 9px 15px 1px rgba(176,176,176,0.68);
+-moz-box-shadow: inset 7px 9px 15px 1px rgba(176,176,176,0.68);
+box-shadow: inset 7px 9px 15px 1px rgba(176,176,176,0.68);
+   }
+.producto4{
+    padding: 50px 0px 0px 40px;
+       -webkit-box-shadow: inset 7px 9px 15px 1px rgba(176,176,176,0.68);
+-moz-box-shadow: inset 7px 9px 15px 1px rgba(176,176,176,0.68);
+box-shadow: inset 7px 9px 15px 1px rgba(176,176,176,0.68);
+  
+}
+.producto5{
+    padding: 50px 10px 0px 0px;
+     background: #EBEFED
+}
+.preguntas{
+    padding: 50px 10px;
+    background-image: url(../img/81-min.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.temaproducto{
+    font-size: 2.2rem;
+    color: #fca300;
+}
+.temaproducto2{
+    font-size: 2.2rem;
+    color: #004652;
+}
+.temaproducto3{
+    font-size: 2.2rem;
+    color: #8A009B;
+}
+
+.temaproducto5{
+     font-size: 2.2rem;
+    color:#BF0075
+}
+.temaproducto4{
+    font-size: 2.2rem;
+    color: #FAAD00;
+}
+.temaproducto6{
+    font-size: 2.2rem;
+    color: #008EA2;
+}
+
+.temaproducto7{
+    font-size: 2.2rem;
+    color: #D47015;
+}
+.prod6heramienta{
+    color: #016b74 !important
+}
+.temapreguntas{
+     font-size: 2.2rem;
+    color: white;
+}
+.parrafoproducto{
+    font-size: 1.2rem;
+    color: #5f5f5f;
+    font-weight: 600;
+}
+
+.produ5{
+    color: purple !important
+}
+.prod7{
+    color: #d18700 !important
+}
+.imgproducto1{
+    padding: 0px 40px 0px 0px !important
+}
+.imgproducto2{
+    padding: 0px 0px 0px 0px !important
+}
+.flechabajo{
+    float: right
+}
+.incluye{
+    color: #004652;
+    font-weight: bold
+}
+.entrenamiento{
+    color: #e04500;
+    font-weight: 400 !important
+}
+
+.pregun1{
+    color: #b4b3b3;
+    
+}
+
+.listpreguntas{
+    color: #4191a8 !important
+}
+.listpreguntas li{
+    color: #00a86e !important
+}
+/*PAGINAS WEB*/
+.ventajas{
+    background-image: url(../img/30-min.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50px 10px
+}
+.grafico{
+    height: 380px !important
+}
+.webmater{
+    background-image: url(../img/90.png);
+    background-repeat: no-repeat;
+     background-size: 100vw 22vh;
+    height: 22vh
+    
+}
+.webmater1{
+    background-image: url(../img/95.png);
+    background-repeat: no-repeat;
+     background-size: 100vw 22vh;
+    height: 22vh
+    
+}
+.webmater2{
+    background-image: url(../img/96.png);
+    background-repeat: no-repeat;
+     background-size: 100vw 22vh;
+    height: 22vh
+    
+}
+.webmater3{
+    background-image: url(../img/97.png);
+    background-repeat: no-repeat;
+     background-size: 100vw 22vh;
+    height: 22vh
+    
+}
+.pwrtexto{
+    padding: 30px 10px 70px 10px;
+    font-size: 3.5rem !important
+}
+.descripcionweb{
+    background: #EBEFED;
+    padding: 30px 10px 40px 10px;
+}
+.importdesc p{
+    font-size: 1.4rem;
+    font-family:serif;
+    font-weight: 600;
+    color: #005546
+}
+.elegir{
+    color: white;
+    font-weight: bold;
+    
+}
+.webmodelos{
+  background: rgb(5,0,25);
+background: linear-gradient(90deg, rgba(5,0,25,1) 0%, rgba(2,32,129,1) 67%, rgba(13,139,255,1) 100%);
+  padding: 50px 10px 
+}
+.webmedida{
+      background: #000719;
+  padding: 50px 10px 
+}
+.webmedida1{
+      background: #00545c;
+  padding: 50px 10px 
+}
+.webmedida2{
+      background: #018b98;
+  padding: 50px 10px 
+}
+
+
+.pwrtexto1{
+    font-size: 5rem !important;
+    text-align: center;
+}
+.estructuras{
+    line-height: 27px
+}
+
+.adquirir1{
+    padding: 50px 0px;
+    background-image: url(../img/63-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.blues{
+    color: #025733 !important
+}
+.blues1
+{
+    color: purple !important
+}
+.planes p{
+    color: #004555 !important
+}
+.mantenimientos{
+    font-size: 10rem !important;
+    color: #FFA500
+}
+.actuali{
+    font-weight: bold !important
+}
+
+.unete{
+    background-image: url(../img/94-min.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.like{
+    height: 250px !important
+}
+
+.basicp{
+    box-shadow: none !important;
+    background: #EBEFED
+}
+/*APLICACIONES MOVILES*/
+
+.clasesapp{
+    background-image: url(../img/121-min.png);
+    background-repeat: no-repeat;
+    background-size:  cover;
+    border-top: 5px solid #49CBFF;
+    padding: 50px 10px 150px 10px;
+}
+.clasesapp1{
+    background: #F9F9F9;
+    border-top: 5px solid #49CBFF;
+    padding: 50px 10px;
+}
+.clasesapp2{
+    background: #414143;
+    border-top: 5px solid #ffffff;
+    padding: 50px 10px 0px 10px;
+}
+.cele{
+    color:  #49CBFF !important
+}
+
+
+.imagen-cambiante {
+    min-height: 260px;
+    min-width: 260px;
+    background: url(../img/113-min.png) no-repeat;
+    background-repeat: no-repeat;
+    transition: opacity 2.5s ease-in-out
+    
+}
+
+.imagen-cambiante:hover {
+    background: url(../img/114-min.png) no-repeat;
+    
+}
+
+.imagen-cambiante1 {
+    min-height: 260px;
+    min-width: 260px;
+    background: url(../img/116-min.png) no-repeat;
+    background-repeat: no-repeat;
+    transition: opacity 2.5s ease-in-out
+    
+}
+
+.imagen-cambiante1:hover {
+    background: url(../img/115-min.png) no-repeat;
+    
+}
+
+.imagen-cambiante2 {
+    min-height: 260px;
+    min-width: 260px;
+    background: url(../img/117-min.png) no-repeat;
+    background-repeat: no-repeat;
+    transition: opacity 2.5s ease-in-out
+    
+}
+
+.imagen-cambiante2:hover {
+    background: url(../img/118-min.png) no-repeat;
+    
+}
+
+.imagen-cambiante3 {
+    min-height: 260px;
+    min-width: 260px;
+    background: url(../img/120-min.png) no-repeat;
+    background-repeat: no-repeat;
+    transition: opacity 2.5s ease-in-out
+    
+}
+
+.imagen-cambiante3:hover {
+    background: url(../img/119-min.png) no-repeat;
+    
+}
+
+.imagen-cambiante5 {
+    min-height: 260px;
+    min-width: 260px;
+    background: url(../img/129-min.png) no-repeat;
+    background-repeat: no-repeat;
+    transition: opacity 2.5s ease-in-out
+    
+}
+
+.imagen-cambiante5:hover {
+    background: url(../img/130-min.png) no-repeat;
+    
+}
+
+.imagen-cambiante6 {
+    min-height: 260px;
+    min-width: 260px;
+    background: url(../img/131-min.png) no-repeat;
+    background-repeat: no-repeat;
+    transition: opacity 2.5s ease-in-out
+    
+}
+
+.imagen-cambiante6:hover {
+    background: url(../img/132-min.png) no-repeat;
+    
+}
+
+.imagen-cambiante7 {
+    min-height: 260px;
+    min-width: 260px;
+    background: url(../img/134-min.png) no-repeat;
+    background-repeat: no-repeat;
+    transition: opacity 2.5s ease-in-out
+    
+}
+
+.imagen-cambiante7:hover {
+    background: url(../img/133-min.png) no-repeat;
+    
+}
+.reserapp{
+    color: #359ac3;
+    font-weight: bold;
+}
+.reserva{
+    padding: 0px 50px
+}
+.precioapp{
+    background-image: url(../img/126-min.png);
+    background-repeat: no-repeat;
+    background-size:  cover;
+    padding: 15px 10px;
+}
+.preciodolar{
+    font-size: 2.1rem !important
+}
+.efectto:hover{
+-webkit-box-shadow: -14px 13px 18px -6px rgba(120,120,120,1);
+-moz-box-shadow: -14px 13px 18px -6px rgba(120,120,120,1);
+box-shadow: -14px 13px 18px -6px rgba(120,120,120,1);
+}
+
+.video1{
+    background-image: url(../img/128-min.jpg) !important;
+}
+.hite{
+    color: white !important;
+    font-weight: bold !important
+}
+.mante{
+    font-size: 1rem !important;
+    margin-top: 30px !important;
+    font-weight: bold !important;
+}
+
+/*CURSOS*/
+
+.texto-vertical-1 {
+    writing-mode: vertical-lr;
+    padding-top: 25px;
+    
+    
+}
+.texto-vertical-2 {
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    padding-top: 7px
+       
+}
+.horixo{
+    height: 288px;
+      
+}
+.listadocurso{
+    background: #F38F12;
+    
+    border-bottom: 3px solid #ffe200
+}
+.listadocurso1{
+    background: #ECECEC;
+   
+    border-bottom: 1px solid #c4c4bf
+}
+.horixolor{
+    background: #401800
+}
+.temalista h2{
+     color: white;
+     font-weight: bold;
+     font-size: 1.7rem;
+    padding-top: 7px
+}
+.temalista h3{
+     color: white;
+     font-weight: bold;
+     font-size: 1.7rem;
+    
+}
+.liscurso{
+    color: #a85e36;
+    font-weight: 400
+}
+.cofe{
+    color: #96532C !important
+}
+.oran li a i{
+    color: #F38F12 !important
+}
+.infocursos{
+    padding: 0px !important
+}
+.webdesig{
+    padding: 0px !important
+}
+.frontendebeloper{
+    background: black
+}
+.desarrollofronte{
+    padding: 0px 70px !important
+}
+.desafios{
+    color: #969696;
+    font-weight: bold;
+    border-bottom: 5px solid #969696
+    
+}
+.semanales{
+    color: #3e3e3e;
+    font-weight: 500
+}
+.aprenderas{
+    background: #ECECEC !important
+}
+.infop{
+    color: white !important;
+    font-weight: bold !important;
+    font-size: 1rem !important
+}
+
+.videoscursos{
+    padding: 100px 0px 0px 0px;
+    background: #F27D08
+}
+.curresponsive{
+    color: white !important;
+}
+.imagcur{
+    padding: 0px !important
+}
+.camara{
+    border: none !important
+}
+.camara:hover{
+    color: white !important
+}
+.animadascursos{
+    font-weight: bold !important;
+}
+.dolarcursos{
+    color: #00d6d6 !important;
+}
+/*POSICIONAMIENTO SEO*/
+.bannerseo{
+    background-image: url(../img/179-min.png);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    height: 100vh;
+    padding-left: 170px;
+    
+    
+}
+.temaseo{
+    font-family: 'Suez One', serif;
+    font-size: 4rem;
+    line-height: 75px
+}
+.goole1{
+    color: #4a4b4d;
+    font-weight: bold;
+    line-height: 30px;
+}
+.posiseo{
+    color: #ac006c;
+}
+.probarcircle{
+    margin-top: -120px
+}
+.ml11 {
+  font-weight: 700;
+  font-size: 3.5em;
+}
+
+.ml11 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.1em;
+  padding-right: 0.05em;
+  padding-bottom: 0.15em;
+}
+
+.ml11 .line {
+  opacity: 0;
+  position: absolute;
+  left: 0;
+  height: 100%;
+  width: 3px;
+  background-color: #fff;
+  transform-origin: 0 50%;
+}
+
+.ml11 .line1 { 
+  top: 0; 
+  left: 0;
+}
+
+.ml11 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+.linered{
+   background: #d8158f !important
+}
+.opseo{
+    color: #5d0096
+}
+.inconseo{
+    color: #d8158f;
+}
+.procesosseo{
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(77,0,61,1) 31%, rgba(238,0,220,1) 100%);
+}
+
+.proseo{
+    background: #160029 !important;
+    padding: 20px 50px !important;
+   
+}
+.proseo1{
+    background: #4e0071 !important;
+    padding: 20px 50px !important;
+   
+}
+
+
+.procesotema{
+    font-size: 2.5rem
+}
+.listaseo{
+    border-top: 2px solid white !important
+}
+
+.fondoseo{
+    background-image: url(../img/179-min.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+@media (max-width: 1220px) {
+    .bannerseo{
+       
+        background-size: 100vw 150vh;
+        padding-left: 10px !important;
+         height: 150vh;
+    }
+       }
+@media (max-width: 990px) {
+    .bannerseo{
+       padding-left: 10px !important;
+        background-size: 100vw 150vh;
+        
+         height: 150vh;
+    }
+       }
+@media (max-width: 992px) {
+    .colizseo{
+        padding-top: 50px
+    }
+   
+    .pwrtexto1{
+    font-size: 4rem !important;
+    text-align: center;
+}
+     .pwrtexto{
+        
+        text-align: center
+    }
+      .webmater{
+    background-image: url(../img/90.png);
+    background-repeat: no-repeat;
+    background-size: 100vw 40vh;
+    height: 40vh
+    
+}
+    .imgmap {
+        width: 300px;
+        height: 400px
+    }
+}
+
+@media (max-width: 767px) {
+    .temaseo{
+   
+    font-size: 2rem;
+    line-height: 45px
+}
+    .bannerseo{
+   
+    padding-left: 20px;
+    
+    
+}
+    .benece{
+        font-size: 2rem  !important
+    }
+    .clasesapp{
+
+    padding: 50px 10px;
+}
+       .webmater3{
+
+     background-size: 100vw 30vh;
+    height: 30vh
+    
+}
+    .nosimporta{
+        color: white !important
+    }
+   
+    .estruct{
+        font-size: 2rem !important
+    }
+      .webmater2{
+
+     background-size: 100vw 40vh;
+    height: 40vh
+    
+}
+     .webmater1{
+
+     background-size: 100vw 40vh;
+    height: 40vh
+    
+}
+    .webmater{
+    background-image: url(../img/90.png);
+    background-repeat: no-repeat;
+     background-size: 100vw 30vh;
+    height: 30vh
+    
+}
+    .pwrtexto{
+        font-size: 2rem !important;
+        text-align: center
+    }
+    .grafico{
+    height: 280px !important
+}
+    .ventatext{
+        font-size: 1.9rem !important
+    }
+    .eslogan {
+   
+    letter-spacing: 1px;
+   
+
+}
+    .movilweb{
+        font-size: 1.5rem
+    }
+  .producto4{
+    padding: 50px 10px !important;
+
+}
+      .producto3{
+    padding: 50px 10px !important;
+
+}
+        .producto5{
+    padding: 50px 10px !important;
+
+}
+     .producto2{
+    padding: 50px 10px !important;
+
+}
+    .producto1{
+     
+    padding: 50px 10px !important;
+    
+
+}
+    .imgproducto1{
+    padding: 0px 0px 20px 0px !important
+}
+    .temaproducto{
+        color: #ac4200 !important;
+    }
+    .infoparrafo{
+        font-size: 1.2rem;
+        text-align: justify
+    }
+    .imgmap {
+        width: 300px;
+        height: 400px
+    }
+
+    .infomar h1 {
+        font-size: 2.5rem
+    }
+
+    .banneringresos {
+        background-image: url(../img/56-min.jpg);
+
+    }
+
+    .contact {
+        color: #e39300 !important;
+        font-size: 2.5rem !important
+    }
+
+    .contacto {
+
+        background-size: 100vw 190vh;
+        height: 190vh
+    }
+
+    .quienessomos {
+        padding-top: 15px
+    }
+
+    .ultimo {
+        display: none !important
+    }
+
+    .redesicon {
+        font-size: 1.5rem !important
+    }
+
+    .nosotros {
+
+        background-size: 100vw 125vh;
+        height: 125vh;
+
+    }
+
+    .temanosotros {
+        margin-top: -50px
+    }
+
+    .anchocursos {
+        padding: 20px 0px 0px 0px
+    }
+
+    .anchocursos1 {
+        padding: 0px 0px 0px 0px
+    }
+
+    .cursomarke {
+        margin-top: 15px !important
+    }
+
+    .marketing {
+        padding: 50px 0px
+    }
+
+    .frontend {
+        padding: 50px 0px
+    }
+
+    .alturacaruu {
+        height: 300px !important;
+
+    }
+
+    .barra {
+        display: none !important;
+    }
+
+    .altura img {
+        height: 250px
+    }
+}

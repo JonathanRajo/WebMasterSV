@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="shorcut icon" href="img/100.png">
+
+    <title>WEBMASTERSV Agencia de Marketing Digital - Certificados de Desarrollo web y Marketing Digital</title>
+
+    <meta name="keywords" content="webmastersv, agencia de marketing digital, cursos de desarrollo web, cursos de marketing digital, páginas web, marketing digital, ">
+    <link rel="stylesheet" href="css/styles.css">
+    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.8.7/css/mdb.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Archivo+Black&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Crete+Round&display=swap" rel="stylesheet">
+ 
+
+
+</head>
+
+<body>
+
+    <nav class="mb-1 navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+        <div class="container-fluid ">
+            <div class="d-flex align-items-center">
+                   <div class="deskode"><a href="index.html">
+                        <h2 class="text-md-center  logo"><span class="desk movilweb">WEB</span><span class="code movilweb">MASTERSV</span></h2>
+                        <p class=" eslogan"><span class="code"> DESARROLLO WEB</span> <span class="desk">& MARKETING</span></p>
+                    </a>
+                </div>
+                <div class="nave">
+                    <a href="index.html">
+                       <i class="ml-2 mb-2 voxina fas fa-bullhorn wow animated  rollIn slow"></i>
+                        </a>
+                </div>
+            </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-4" aria-controls="navbarSupportedContent-4" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent-4">
+                <ul class="navbar-nav ml-auto enlaces">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="index.html">
+                            <i class="fas fa-home "></i> Inicio
+                            <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+                  
+                    <li class="nav-item">
+                        <a class="nav-link  d-flex align-items-center" href="#cursos">
+                            <i class="fas fa-certificate mr-3 circ"></i> Cursos</a>
+                    </li>
+                  
+                    <li class="nav-item">
+                        <a class="nav-link  d-flex align-items-center" href="vender-cursos.html">
+                            <i class="fas fa-certificate mr-3 circ"></i> Vende Nuestros Cursos</a>
+                    </li>
+             
+
+                    <li class="nav-item">
+                        <a class="nav-link  d-flex align-items-center" href="#">
+                            <i class="fas fa-certificate mr-3 circ"></i> Contáctanos</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+   
+            
+<section class="contacto d-flex align-items-center ">
+
+   
+   
+    <div class="container infomar ">
+     <h2 class="h1-responsive font-weight-bold text-center contact ">Contáctanos
+     </h2>
+   
+    <p class="text-center w-responsive mx-auto mb-5">
+¿Tiene usted alguna pregunta? Por favor no dude en contactarnos directamente. Nuestro equipo se pondrá en contacto con usted para ayudarle.</p>
+    <div class="row">
+
+      
+        <div class="col-md-9 mb-md-0 mb-5">
+            <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+
+             
+                <div class="row">
+
+                   
+                    <div class="col-md-6">
+                        <div class="md-form mb-0">
+                            <input type="text" id="name" name="name" class="form-control">
+                            <label for="name" class="labecontac">Nombre</label>
+                        </div>
+                    </div>
+                   
+
+     
+                    <div class="col-md-6">
+                        <div class="md-form mb-0">
+                            <input type="text" id="email" name="email" class="form-control">
+                            <label for="email" class="labecontac">Email</label>
+                        </div>
+                    </div>
+                 
+
+                </div>
+              
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="md-form mb-0">
+                            <input type="text" id="subject" name="subject" class="form-control">
+                            <label for="subject" class="labecontac">Asunto</label>
+                        </div>
+                    </div>
+                </div>
+          
+                <div class="row">
+
+              
+                    <div class="col-md-12">
+
+                        <div class="md-form">
+                            <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
+                            <label for="message" class="labecontac" >Mensaje</label>
+                        </div>
+
+                    </div>
+                </div>
+               
+
+            </form>
+
+            <div class="text-center text-md-left ">
+                <a class="btn btn-primary peach-gradient z-depth-5" onclick="document.getElementById('contact-form').submit();">Enviar</a>
+            </div>
+            <div class="status"></div>
+        </div>
+   
+        <div class="col-md-3 text-center">
+            <ul class="list-unstyled mb-0">
+                <li><i class="fas fa-map-marker-alt fa-2x iconoscontac"></i>
+                    <p>Ciudad de Sonsonate</p>
+                </li>
+
+                <li><i class="fas fa-phone mt-4 fa-2x iconoscontac"></i>
+                    <p>+503 7044-5818</p>
+                </li>
+
+                <li><i class="fas fa-envelope mt-4 fa-2x iconoscontac"></i>
+                    <p>info@webmastersv.com</p>
+                </li>
+            </ul>
+            <div class="text-center">
+
+
+  <button type="button" class="btn btn-secondary peach-gradient z-depth-5" data-toggle="modal" data-target="#modalCustom">Ver Mapa</button>
+
+</div>
+
+
+<div class="modal fade" id="modalCustom" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+
+  
+    <div class="modal-content">
+
+
+      <div class="modal-body mb-0 p-0">
+
+   
+        <div id="map-container-google-18" class="z-depth-1-half map-container-11"  style="height: 400px">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15503.804280931356!2d-89.7211394!3d13.7214122!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4e05be434a447d7e!2swebmastersv!5e0!3m2!1ses-419!2ssv!4v1577310354033!5m2!1ses-419!2ssv" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" class="imgmap"></iframe>
+    
+        </div>
+
+      </div>
+
+    
+      <div class="modal-footer justify-content-center">
+
+
+        <button type="button" class="btn btn-outline-secondary btn-md" data-dismiss="modal">Close <i class="fas fa-times ml-1"></i></button>
+
+      </div>
+
+    </div>
+   
+
+  </div>
+</div>
+
+            
+        </div>
+      
+
+    </div>
+    
+</div>
+</section>
+
+  
+    <!-- Footer -->
+
+ 
+ 
+
+ 
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.8.7/js/mdb.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15.0/dist/smooth-scroll.polyfills.min.js "></script>
+  
+    <script>
+        $(document).ready(function() {
+            new WOW().init();
+            $(".wow").addClass("fadeInUp");
+          
+        });
+    </script>
+<!--Start of Tawk.to Script--
+<!--End of Tawk.to Script-->
+</body></html>
